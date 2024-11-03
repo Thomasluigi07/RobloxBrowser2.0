@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roblox Browser", "WindowsFormsApp1\Roblox Browser.csproj", "{62DD6238-140E-4775-8000-B861A57EC13C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62DD6238-140E-4775-8000-B861A57EC13C}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{62DD6238-140E-4775-8000-B861A57EC13C}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{62DD6238-140E-4775-8000-B861A57EC13C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62DD6238-140E-4775-8000-B861A57EC13C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3649F183-2956-4564-9CF4-AE1033C486FE}
+	EndGlobalSection
+EndGlobal

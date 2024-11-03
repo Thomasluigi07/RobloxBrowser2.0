@@ -1,4 +1,8 @@
-# This now probably doesn't work!
+# This doesn't work anymore!
+This program broke when Roblox discontinued Internet Explorer support. This program will not be fixed and will be left in a broken state.
+Everything below this sentence is leftovers from the old README.
+
+## This now probably doesn't work!
 Roblox now no longer supports the built-in browser (Internet Explorer), so it may be impossible to use this at the moment. RIP.
 
 ## RobloxBrowser2.0
